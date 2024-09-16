@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://candid-frangipane-15969b.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
